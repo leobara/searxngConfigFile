@@ -8,7 +8,8 @@ general:
 
 search:
   safe_search: 2
-  autocomplete: 'duckduckgo'
+  autocomplete: 'google'
+  default_lang: 'it-IT'
 
 server:
   secret_key: "47509bf1ac0c4cf04c089e1daf7c785c"
